@@ -1,0 +1,44 @@
+C:\Users\JuanAriel\Source\Repos\MenuBot\MenuBot\bin\Bot Application.dll.config
+C:\Users\JuanAriel\Source\Repos\MenuBot\MenuBot\bin\Bot Application.dll
+C:\Users\JuanAriel\Source\Repos\MenuBot\MenuBot\bin\Bot Application.pdb
+C:\Users\JuanAriel\Source\Repos\MenuBot\MenuBot\bin\Autofac.dll
+C:\Users\JuanAriel\Source\Repos\MenuBot\MenuBot\bin\Chronic.dll
+C:\Users\JuanAriel\Source\Repos\MenuBot\MenuBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\JuanAriel\Source\Repos\MenuBot\MenuBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\JuanAriel\Source\Repos\MenuBot\MenuBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\JuanAriel\Source\Repos\MenuBot\MenuBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\JuanAriel\Source\Repos\MenuBot\MenuBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\JuanAriel\Source\Repos\MenuBot\MenuBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\JuanAriel\Source\Repos\MenuBot\MenuBot\bin\Newtonsoft.Json.dll
+C:\Users\JuanAriel\Source\Repos\MenuBot\MenuBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\JuanAriel\Source\Repos\MenuBot\MenuBot\bin\System.Net.Http.Formatting.dll
+C:\Users\JuanAriel\Source\Repos\MenuBot\MenuBot\bin\System.Web.Http.dll
+C:\Users\JuanAriel\Source\Repos\MenuBot\MenuBot\bin\System.Web.Http.WebHost.dll
+C:\Users\JuanAriel\Source\Repos\MenuBot\MenuBot\bin\Autofac.xml
+C:\Users\JuanAriel\Source\Repos\MenuBot\MenuBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\JuanAriel\Source\Repos\MenuBot\MenuBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\JuanAriel\Source\Repos\MenuBot\MenuBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\JuanAriel\Source\Repos\MenuBot\MenuBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\JuanAriel\Source\Repos\MenuBot\MenuBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\JuanAriel\Source\Repos\MenuBot\MenuBot\bin\Newtonsoft.Json.xml
+C:\Users\JuanAriel\Source\Repos\MenuBot\MenuBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\JuanAriel\Source\Repos\MenuBot\MenuBot\bin\System.Net.Http.Formatting.xml
+C:\Users\JuanAriel\Source\Repos\MenuBot\MenuBot\bin\System.Web.Http.xml
+C:\Users\JuanAriel\Source\Repos\MenuBot\MenuBot\bin\System.Web.Http.WebHost.xml
+C:\Users\JuanAriel\Source\Repos\MenuBot\MenuBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\JuanAriel\Source\Repos\MenuBot\MenuBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\JuanAriel\Source\Repos\MenuBot\MenuBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\JuanAriel\Source\Repos\MenuBot\MenuBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\JuanAriel\Source\Repos\MenuBot\MenuBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\JuanAriel\Source\Repos\MenuBot\MenuBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\JuanAriel\Source\Repos\MenuBot\MenuBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\JuanAriel\Source\Repos\MenuBot\MenuBot\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\JuanAriel\Source\Repos\MenuBot\MenuBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\JuanAriel\Source\Repos\MenuBot\MenuBot\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\JuanAriel\Source\Repos\MenuBot\MenuBot\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\JuanAriel\Source\Repos\MenuBot\MenuBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\JuanAriel\Source\Repos\MenuBot\MenuBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\JuanAriel\Source\Repos\MenuBot\MenuBot\obj\Debug\MenuBot.csprojResolveAssemblyReference.cache
+C:\Users\JuanAriel\Source\Repos\MenuBot\MenuBot\obj\Debug\MenuBot.csproj.CoreCompileInputs.cache
+C:\Users\JuanAriel\Source\Repos\MenuBot\MenuBot\obj\Debug\Bot Application.dll
+C:\Users\JuanAriel\Source\Repos\MenuBot\MenuBot\obj\Debug\Bot Application.pdb
