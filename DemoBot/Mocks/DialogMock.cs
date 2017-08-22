@@ -20,35 +20,49 @@ namespace DemoBot.Mocks
                         Id = 1,
                         FatherId = null,
                         Order = 1,
-                        Text = "First Question Text for Trigger A"
+                        Text = "What's your primary reason for joining"
                     },
                     new QuestionVm
                     {
                         Id = 2,
                         FatherId = 1,
                         Order = 1,
-                        Text = "First Option Text for Question 1"
+                        Text = "Get stronger"
                     },
                     new QuestionVm
                     {
                         Id = 3,
                         FatherId = 1,
                         Order = 2,
-                        Text = "Second Option Text for Question 1"
+                        Text = "Lose weight"
                     },
                     new QuestionVm
                     {
                         Id = 4,
-                        FatherId = null,
-                        Order = 2,
-                        Text = "Second Question Text for Trigger A"
+                        FatherId = 1,
+                        Order = 3,
+                        Text = "Tone up"
                     },
                     new QuestionVm
                     {
                         Id = 5,
-                        FatherId = null,
-                        Order = 3,
-                        Text = "Third Question Text for Trigger A"
+                        FatherId = 2,
+                        Order = 1,
+                        Text = "Great. Getting stringer makes life easier."
+                    },
+                    new QuestionVm
+                    {
+                        Id = 6,
+                        FatherId = 3,
+                        Order = 1,
+                        Text = "We can definitely help lighten things up for you."
+                    },
+                    new QuestionVm
+                    {
+                        Id = 7,
+                        FatherId = 4,
+                        Order = 1,
+                        Text = "Excellent. Well-defined goals mean well-defined bodies."
                     }
                 }
             },
@@ -63,36 +77,37 @@ namespace DemoBot.Mocks
                         Id = 1,
                         FatherId = null,
                         Order = 1,
-                        Text = "First Question Text for Trigger B"
+                        Text = "You haven't booked another class yet. Can we help you find one you might like better?"
                     },
                     new QuestionVm
                     {
                         Id = 2,
-                        FatherId = null,
-                        Order = 2,
-                        Text = "Second Question Text for Trigger B"
+                        FatherId = 1,
+                        Order = 1,
+                        Text = "Let's"
                     },
                     new QuestionVm
                     {
                         Id = 3,
-                        FatherId = null,
-                        Order = 3,
-                        Text = "Third Question Text for Trigger B"
+                        FatherId = 1,
+                        Order = 2,
+                        Text = "Maybe later"
                     },
                     new QuestionVm
                     {
                         Id = 4,
-                        FatherId = 3,
+                        FatherId = 2,
                         Order = 1,
-                        Text = "First Option Text for Question 3"
-                    },
+                        Text = "Fantastic. One moment please."
+                    }
+                    ,
                     new QuestionVm
                     {
                         Id = 5,
                         FatherId = 3,
-                        Order = 2,
-                        Text = "Second Option Text for Question 3"
-                    },
+                        Order = 1,
+                        Text = "Okay. See you soon."
+                    }
                 }
             }
                     

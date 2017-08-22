@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Threading.Tasks;
+using System.Web.Script.Serialization;
 using Microsoft.Bot.Builder.Dialogs;
 using Microsoft.Bot.Connector;
 using DemoBot.Shared;
 using DemoBot.Mocks;
-using System.Linq;
 
 namespace DemoBot.Dialogs
 {
@@ -31,7 +31,8 @@ namespace DemoBot.Dialogs
             {
                 //Get Entire dialog for given trigger
                 var entireDialog = DialogMock.GetDialogVmByTrigger(trigger);
-                reply.Text = entireDialog.Questions.OrderBy(x => x.Order).First().Text;
+                var dialogJson = new JavaScriptSerializer().Serialize(entireDialog);
+                reply.Text = dialogJson;
                 reply.Locale = "en-Us";
                 reply.ChannelData = entireDialog;
 
